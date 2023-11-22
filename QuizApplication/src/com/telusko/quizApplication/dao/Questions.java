@@ -22,6 +22,8 @@ public class Questions {
 	}
 	
 	
+	
+	
 //	public Questions(int questionId, String question, String option1, String option2, String option3, String option4) {
 //		super();
 //		this.questionId = questionId;
@@ -82,8 +84,8 @@ public class Questions {
 
 	@Override
 	public String toString() {
-		return "Questions [questionId=" + questionId + ", question=" + question + ", option1=" + option1 + ", option2="
-				+ option2 + ", option3=" + option3 + ", option4=" + option4 + "]";
+		return  "->"+questionId + ", question=" + question + ", option1=" + option1 + ", option2="
+				+ option2 + ", option3=" + option3 + ", option4=" + option4 +" ";
 	}
 	
 	

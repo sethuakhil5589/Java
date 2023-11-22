@@ -22,7 +22,10 @@ public class QuizService {
 		return answerFromStudent;
 	}
 	public void checkAnswer() {
-		if(answer.endsWith(answerFromStudent)) {
+		if (answerFromStudent.compareToIgnoreCase("SKIP")==0) {
+			points=points+0;
+		}
+		else if(answer.equals(answerFromStudent)) {
 			points=points+2;
 		}
 		else  {
