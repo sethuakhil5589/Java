@@ -13,7 +13,7 @@ class ABC{
 	}
 }
 
-class B extends A{
+class B extends ABC{
 	void dem0() {
 		System.out.println("In B class");
 	}
@@ -32,7 +32,7 @@ public class LaunchAnonymousClass {
 //		A.C c=new A.C();
 //		c.demo2();		this works when it is static
 		ABC abc = new ABC();
-		ABC xyz1=abc.new ABC();
+		ABC xyz1=new ABC();
 		
 
 	}

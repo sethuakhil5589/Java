@@ -50,9 +50,9 @@ public class LaunchPolymorphsim {
 	public static void main(String[] args) {
 		CargoPlane3 cp=new CargoPlane3();
 		
-		PassengerPlane2 pp=new PassengerPlane2();
+		PassengerPlane3 pp=new PassengerPlane3();
 		
-		FighterPlane2 fp=new FighterPlane2();
+		FighterPlane3 fp=new FighterPlane3();
 		
 		Airport ap=new Airport();
 		

@@ -11,13 +11,25 @@ class SquareArea implements Square1{
 		return area;
 	}
 	;
+
+	@Override
+	public int area(int i, int j) {
+		return 0;
+	}
+
+//	public int sq(int i,int j) {
+//		int area=i*j;
+//		System.out.println(i*j);
+//		return area;
+//		
+//	}
 }
 
 public class LaunchLamdaExpression {
 
 	public static void main(String[] args) {
 		SquareArea sqarea=new SquareArea();
-		sqarea.sq;
+		sqarea.sq.area(2,4);
 
 	}
 
