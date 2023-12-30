@@ -3,8 +3,8 @@ import java.util.*;
 class ArrayInput{
 	public void collectingInput() {
 		Scanner scan=new Scanner(System.in);
-		System.out.println("Enter number of questions");
-		int noOfQuestions=
+		System.out.println("Enter number Id");
+		
 	}
 }
 

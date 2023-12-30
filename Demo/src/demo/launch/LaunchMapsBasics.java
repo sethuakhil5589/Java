@@ -44,6 +44,8 @@ public class LaunchMapsBasics {
 			System.out.println("Keys are : "+itr1.next());
 		}
 		
+		//roomMates.keySet().iterator().next()
+		
 		//getting or accessing only values for the above data.
 		
 		Collection<String> valuesOfRoomMates =roomMates.values();

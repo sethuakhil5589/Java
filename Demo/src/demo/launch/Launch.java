@@ -1,5 +1,8 @@
 package demo.launch;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class Launch {
 
 	public static void main(String[] args) {
@@ -18,6 +21,11 @@ public class Launch {
 			System.out.println("*");
 			i++;
 		}while(i<5);
+		
+		
+		List<String> MyList = Arrays.asList("Akhil");
+		
+		System.out.println(MyList);
 
 	}
 
