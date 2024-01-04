@@ -11,6 +11,28 @@ public class Person {
 		this.age = age;
 		this.city = city;
 	}
+	
+	
+	public Person() {
+		super();
+	}
+
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+
+	public void setCity(String city) {
+		this.city = city;
+	}
+
+
 	public String getName() {
 		return name;
 	}

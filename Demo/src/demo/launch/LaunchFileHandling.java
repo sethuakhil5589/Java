@@ -32,6 +32,8 @@ public class LaunchFileHandling {
 		int filesCount=(int)file2.length();
 		
 		System.out.println(filesCount);
+		
+		
 
 	}
 
