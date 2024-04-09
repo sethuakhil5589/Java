@@ -1,0 +1,12 @@
+com.akhil.main.LaunchDemo -{In Trace Method} -> 2024-04-04 16:04:59,346 - [TRACE] - In Trace Method  
+com.akhil.main.LaunchDemo -{In Info Method} -> 2024-04-04 16:04:59,349 - [INFO] - In Info Method  
+com.akhil.main.LaunchDemo -{In Debug Method} -> 2024-04-04 16:04:59,349 - [DEBUG] - In Debug Method  
+com.akhil.main.LaunchDemo -{In Warn Method} -> 2024-04-04 16:04:59,349 - [WARN] - In Warn Method  
+com.akhil.main.LaunchDemo -{In Error Method} -> 2024-04-04 16:04:59,349 - [ERROR] - In Error Method  
+com.akhil.main.LaunchDemo -{In Fatal Method} -> 2024-04-04 16:04:59,349 - [FATAL] - In Fatal Method  
+com.akhil.main.LaunchDemo - In Trace Method -{In Trace Method} -> 2024-04-04 16:05:55,112 - [TRACE]  
+com.akhil.main.LaunchDemo - In Info Method -{In Info Method} -> 2024-04-04 16:05:55,115 - [INFO]  
+com.akhil.main.LaunchDemo - In Debug Method -{In Debug Method} -> 2024-04-04 16:05:55,115 - [DEBUG]  
+com.akhil.main.LaunchDemo - In Warn Method -{In Warn Method} -> 2024-04-04 16:05:55,115 - [WARN]  
+com.akhil.main.LaunchDemo - In Error Method -{In Error Method} -> 2024-04-04 16:05:55,116 - [ERROR]  
+com.akhil.main.LaunchDemo - In Fatal Method -{In Fatal Method} -> 2024-04-04 16:05:55,116 - [FATAL]  
